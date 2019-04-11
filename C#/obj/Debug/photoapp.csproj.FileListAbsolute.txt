@@ -1,0 +1,27 @@
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\images\market 031.jpg
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\images\market 032.jpg
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\images\market 034.jpg
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\images\market 039.jpg
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\images\market 040.jpg
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\SDKSample.exe.config
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\SDKSample.exe
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\SDKSample.pdb
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\PhotoView.baml
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\MainWindow.g.cs
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\PhotoView.g.cs
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\app.g.cs
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample_Content.g.cs
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample_MarkupCompile.cache
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample_MarkupCompile.lref
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\app.baml
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\MainWindow.baml
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample.g.resources
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\photoapp.csproj.CoreCompileInputs.cache
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample.exe
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample.pdb
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\MAX\Desktop\WPF Photo Viewer Demo\C#\obj\Debug\photoapp.csproj.CopyComplete
